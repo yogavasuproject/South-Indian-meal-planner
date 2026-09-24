@@ -1,0 +1,6 @@
+{
+  "name": "Enna Samayal? - South Indian Meal Planner",
+  "description": "Smart, authentic South Indian daily cooking and meal planning assistant with balanced menus, recipes, ingredient reuse, and grocery shopping lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
